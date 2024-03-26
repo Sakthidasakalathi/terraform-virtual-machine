@@ -1,3 +1,3 @@
-variable "test1" {
+variable "test2" {
   type = string
 }
